@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-Inspirado no projeto da instrutora [allineantunnes/estudos-logica-com-python](https://github.com/allineantunnes/estudos-logica-com-python). O README fica curto de propósito — o material longo está na [Wiki](https://github.com/sir-devtech/estudos-logica-python/wiki).
+Inspirado no projeto da instrutora [allineantunnes/estudos-logica-com-python](https://github.com/allineantunnes/estudos-logica-com-python). O README fica curto de propósito — o material longo está na [pasta wiki](./wiki/Home.md) (e na Wiki do GitHub quando habilitada).
 
 ## Por que Berserk
 
@@ -54,7 +54,7 @@ docs/              # GIFs
 - [Issues](https://github.com/sir-devtech/estudos-logica-python/issues)
 - [Pull requests](https://github.com/sir-devtech/estudos-logica-python/pulls)
 - [Projects](https://github.com/sir-devtech/estudos-logica-python/projects)
-- [Wiki](https://github.com/sir-devtech/estudos-logica-python/wiki)
+- [Wiki](./wiki/Home.md)
 - Colaborador: [`vincency3-sys`](https://github.com/vincency3-sys)
 
 ## Créditos
